@@ -1,0 +1,42 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.carousel-background-color{
+    background-color: #FEEAE9;
+}
+.carousel-item{
+height: 100%;
+}
+.img-size{
+    height: 70px;
+    transition: .1 all;
+
+}
+.categories-one{
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+.categories-two{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.categories-three{
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+
+.img-size:hover{
+    transform: scale(1.2);
+}
+.bg-container{
+    background-color: #F4F4F4;
+}
+/* .card-heigt{
+    height: 400px;
+} */
+.bag-img{
+    height: 180px;
+}
+.footer-section{
+    background-color: #FFF2F1;
+}
